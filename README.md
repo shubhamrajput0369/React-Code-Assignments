@@ -16,6 +16,6 @@
 
 7. JavaScript Expressions in JSX in ReactJS
 
-8. ES6 Template 
+8. ES6 Template Literals in 
 
    Coming Soon.....
