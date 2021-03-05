@@ -14,6 +14,6 @@
 
 6. Revision - Challenge 1 React
 
-7. JavaScript Expressions 
+7. JavaScript Expressions in JSX in ReactJS
 
    Coming Soon.....
