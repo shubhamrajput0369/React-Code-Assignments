@@ -14,4 +14,6 @@
 
 6. Revision - Challenge 1 React
 
+7. JavaScript Expressions 
+
    Coming Soon.....
