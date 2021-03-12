@@ -1,5 +1,5 @@
 //Author: Shubham Bhagwansing Rajput
-//C++
+//ReactJS
 
 import React from "react";
 import ReactDOM from "react-dom";
