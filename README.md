@@ -18,4 +18,11 @@
 
 8. ES6 Template Literals in JSX in ReactJS
 
+9. JSX Attributes in ReactJS
+
+10. CSS Styling and Importing CSS Files in ReactJS
+
+11. How to use Google Fonts in ReactJS Application
+
+
    Coming Soon.....
