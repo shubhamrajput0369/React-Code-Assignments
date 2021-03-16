@@ -24,5 +24,8 @@
 
 11. How to use Google Fonts in ReactJS Application
 
+12. Internal CSS and Inline CSS Styling in ReactJS
 
+13. ReactJS MiniProject #1 - Creating Simple Greeting Website
+   
    Coming Soon.....
